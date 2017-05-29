@@ -1,0 +1,19 @@
+# Short summary of changes (50 chars or less) in Chinese
+# <Type> <Subject>
+
+
+# More detailed explanatory text, if necessary. Wrap it to about 72
+# characters or so. Use "-" for bullet points in body to express more,
+# preceded by two spaces. Example:
+#   - todo
+#   - side effects
+# Provide links or keys to any relevant bugs, articles or other resources
+
+# --- COMMIT END ---
+# Type can be
+#    Add (creating new files or installing dependencies)
+#    Feature (new feature)
+#    Update (any changes, refactoring or improvement)
+#    Fix (bug fix)
+#    Remove (cleaning the unused)
+#    Style (formatting, missing semi-colons, etc.)
